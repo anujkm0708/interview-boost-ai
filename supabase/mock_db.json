@@ -1,0 +1,2082 @@
+{
+  "resumes": [
+    {
+      "id": "676d2viikro",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T14:52:52.691Z",
+      "updated_at": "2026-06-23T14:52:52.691Z",
+      "file_name": "PHOTO-2026-06-07-17-05-38.pdf",
+      "content": "PDF content extraction — please ensure pdf-parse is installed",
+      "ats_score": 50,
+      "resume_score": 45,
+      "analysis": {
+        "strengths": [
+          "Resume contains relevant professional content"
+        ],
+        "weaknesses": [
+          "Missing a professional summary/objective section",
+          "Missing a dedicated skills section — critical for ATS",
+          "Resume may be too short — consider adding more detail",
+          "No LinkedIn profile link — recommended for tech roles"
+        ],
+        "suggestions": [
+          "Use action verbs to start each bullet point (e.g., Developed, Implemented, Led)",
+          "Add quantifiable achievements with numbers and percentages",
+          "Include industry-specific keywords from the target job description",
+          "Keep resume to 1-2 pages for optimal readability",
+          "Use a clean, ATS-friendly format without tables or graphics",
+          "Add a professional summary highlighting your key qualifications",
+          "Tailor your resume for each specific job application"
+        ],
+        "ats_score": 50,
+        "resume_score": 45,
+        "keyword_density": 40,
+        "formatting_score": 53,
+        "content_score": 40,
+        "sections_found": [],
+        "missing_sections": [
+          "Education",
+          "Experience",
+          "Skills",
+          "Summary"
+        ]
+      }
+    },
+    {
+      "id": "wi9aw5z3r6k",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T15:04:55.019Z",
+      "updated_at": "2026-06-23T15:04:55.019Z",
+      "file_name": "PHOTO-2026-06-07-17-05-38.pdf",
+      "content": "PDF content extraction — please ensure pdf-parse is installed",
+      "ats_score": 50,
+      "resume_score": 45,
+      "analysis": {
+        "strengths": [
+          "Resume contains relevant professional content"
+        ],
+        "weaknesses": [
+          "Missing a professional summary/objective section",
+          "Missing a dedicated skills section — critical for ATS",
+          "Resume may be too short — consider adding more detail",
+          "No LinkedIn profile link — recommended for tech roles"
+        ],
+        "suggestions": [
+          "Use action verbs to start each bullet point (e.g., Developed, Implemented, Led)",
+          "Add quantifiable achievements with numbers and percentages",
+          "Include industry-specific keywords from the target job description",
+          "Keep resume to 1-2 pages for optimal readability",
+          "Use a clean, ATS-friendly format without tables or graphics",
+          "Add a professional summary highlighting your key qualifications",
+          "Tailor your resume for each specific job application"
+        ],
+        "ats_score": 50,
+        "resume_score": 45,
+        "keyword_density": 40,
+        "formatting_score": 53,
+        "content_score": 40,
+        "sections_found": [],
+        "missing_sections": [
+          "Education",
+          "Experience",
+          "Skills",
+          "Summary"
+        ]
+      }
+    },
+    {
+      "id": "pghdmhxp15",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T15:09:25.314Z",
+      "updated_at": "2026-06-23T15:09:25.314Z",
+      "file_name": "PHOTO-2026-06-07-17-05-38.pdf",
+      "content": "PDF content extraction — please ensure pdf-parse is installed",
+      "ats_score": 80,
+      "resume_score": 70,
+      "analysis": {
+        "strengths": [
+          "Clear and concise work experience descriptions",
+          "Relevant technical skills listed",
+          "Education section is well-structured",
+          "Action verbs used throughout the resume"
+        ],
+        "weaknesses": [
+          "Lack of quantifiable achievements in work experience",
+          "No clear career summary or objective statement",
+          "Limited relevant certifications or licenses"
+        ],
+        "suggestions": [
+          "Add specific numbers and metrics to work experience descriptions",
+          "Include a professional summary or career objective statement",
+          "Emphasize transferable skills and relevant tools",
+          "Tailor the resume to a specific job or industry",
+          "Use more descriptive language in the education section",
+          "Consider adding relevant projects or volunteer work"
+        ],
+        "ats_score": 80,
+        "resume_score": 70,
+        "keyword_density": 60,
+        "formatting_score": 90,
+        "content_score": 75,
+        "sections_found": [
+          "Work Experience",
+          "Education",
+          "Technical Skills"
+        ],
+        "missing_sections": [
+          "Career Summary",
+          "Certifications",
+          "Relevant Projects"
+        ]
+      }
+    },
+    {
+      "id": "qoyrujr7lf",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T15:10:43.236Z",
+      "updated_at": "2026-06-23T15:10:43.236Z",
+      "file_name": "PHOTO-2026-06-07-17-02-39.pdf",
+      "content": "PDF content extraction — please ensure pdf-parse is installed",
+      "ats_score": 80,
+      "resume_score": 70,
+      "analysis": {
+        "strengths": [
+          "Clear and concise work experience section",
+          "Relevant technical skills listed",
+          "Education section is well-formatted",
+          "Action verbs used throughout the resume",
+          "Professional summary provided"
+        ],
+        "weaknesses": [
+          "Lack of quantifiable achievements in work experience",
+          "No relevant certifications or licenses listed",
+          "Limited relevant projects or volunteer work",
+          "No clear career progression or advancement"
+        ],
+        "suggestions": [
+          "Add specific numbers and metrics to work experience",
+          "Include relevant certifications or licenses",
+          "Emphasize transferable skills from projects or volunteer work",
+          "Use a standard font throughout the resume",
+          "Consider adding a skills section",
+          "Tailor the resume to a specific job description",
+          "Use bullet points to break up large blocks of text"
+        ],
+        "ats_score": 80,
+        "resume_score": 70,
+        "keyword_density": 60,
+        "formatting_score": 80,
+        "content_score": 70,
+        "sections_found": [
+          "Contact Information",
+          "Professional Summary",
+          "Work Experience",
+          "Education"
+        ],
+        "missing_sections": [
+          "Skills",
+          "Certifications",
+          "Projects",
+          "Volunteer Work"
+        ]
+      }
+    },
+    {
+      "id": "o0zsnuvtrk",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T15:17:26.083Z",
+      "updated_at": "2026-06-23T15:17:26.083Z",
+      "file_name": "PHOTO-2026-06-07-17-02-39.pdf",
+      "content": "PDF content extraction — please ensure pdf-parse is installed",
+      "ats_score": 70,
+      "resume_score": 80,
+      "analysis": {
+        "strengths": [
+          "Clear work experience section",
+          "Relevant technical skills listed",
+          "Education section is well-formatted",
+          "Action verbs used in bullet points",
+          "Professional summary/objective statement",
+          "Relevant certifications and licenses"
+        ],
+        "weaknesses": [
+          "Lack of quantifiable achievements",
+          "No clear career progression",
+          "Limited relevant keywords",
+          "No volunteer or relevant extracurricular activities"
+        ],
+        "suggestions": [
+          "Add specific numbers and metrics to achievements",
+          "Tailor resume to specific job descriptions",
+          "Use more relevant industry keywords",
+          "Include relevant projects or personal initiatives",
+          "Consider adding a skills matrix or chart",
+          "Use action verbs consistently throughout",
+          "Proofread for grammar and spelling errors"
+        ],
+        "ats_score": 70,
+        "resume_score": 80,
+        "keyword_density": 60,
+        "formatting_score": 90,
+        "content_score": 75,
+        "sections_found": [
+          "Work Experience",
+          "Education",
+          "Skills",
+          "Certifications",
+          "Summary"
+        ],
+        "missing_sections": [
+          "Volunteer Experience",
+          "Relevant Projects",
+          "Achievements",
+          "References"
+        ]
+      }
+    },
+    {
+      "id": "x5c1o4dl4zq",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T15:21:31.642Z",
+      "updated_at": "2026-06-23T15:21:31.642Z",
+      "file_name": "PHOTO-2026-06-07-17-02-39.pdf",
+      "content": "PDF content extraction — please ensure pdf-parse is installed",
+      "ats_score": 80,
+      "resume_score": 70,
+      "analysis": {
+        "strengths": [
+          "Clear and concise work experience section",
+          "Relevant technical skills listed",
+          "Education section is well-formatted",
+          "Action verbs used throughout the resume",
+          "Professional summary provided"
+        ],
+        "weaknesses": [
+          "Lack of quantifiable achievements in work experience",
+          "No relevant certifications or licenses listed",
+          "Limited relevant projects or volunteer work",
+          "No clear career progression or goals stated"
+        ],
+        "suggestions": [
+          "Add specific numbers and metrics to work experience",
+          "Include relevant certifications or licenses",
+          "Emphasize transferable skills from projects or volunteer work",
+          "Clearly state career goals and job target",
+          "Use more dynamic language in the professional summary",
+          "Consider adding relevant tools or software proficiency"
+        ],
+        "ats_score": 80,
+        "resume_score": 70,
+        "keyword_density": 60,
+        "formatting_score": 90,
+        "content_score": 75,
+        "sections_found": [
+          "Work Experience",
+          "Education",
+          "Technical Skills",
+          "Professional Summary"
+        ],
+        "missing_sections": [
+          "Certifications",
+          "Projects",
+          "Volunteer Work",
+          "Relevant Tools or Software"
+        ]
+      }
+    },
+    {
+      "id": "ax1y7vrenob",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T15:21:45.360Z",
+      "updated_at": "2026-06-23T15:21:45.360Z",
+      "file_name": "PHOTO-2026-06-07-17-05-38.pdf",
+      "content": "PDF content extraction — please ensure pdf-parse is installed",
+      "ats_score": 70,
+      "resume_score": 80,
+      "analysis": {
+        "strengths": [
+          "Clear work experience section",
+          "Relevant skills listed",
+          "Education section is well-formatted",
+          "Action verbs used in bullet points",
+          "Professional summary/objective statement"
+        ],
+        "weaknesses": [
+          "Lack of quantifiable achievements",
+          "No relevant certifications or licenses",
+          "Limited use of keywords",
+          "No clear career progression"
+        ],
+        "suggestions": [
+          "Add specific numbers and metrics to achievements",
+          "Include relevant certifications or licenses",
+          "Use more keywords from the industry",
+          "Emphasize career progression and growth",
+          "Use a standard font throughout the resume",
+          "Proofread for grammar and spelling errors"
+        ],
+        "ats_score": 70,
+        "resume_score": 80,
+        "keyword_density": 60,
+        "formatting_score": 90,
+        "content_score": 80,
+        "sections_found": [
+          "Work Experience",
+          "Education",
+          "Skills",
+          "Summary"
+        ],
+        "missing_sections": [
+          "Certifications",
+          "Achievements",
+          "Volunteer Experience"
+        ]
+      }
+    },
+    {
+      "id": "6szr0kcqi0h",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T05:02:04.600Z",
+      "updated_at": "2026-06-25T05:02:04.600Z",
+      "file_name": "PHOTO-2026-06-07-17-02-39 (1).pdf",
+      "content": "PDF content extraction — please ensure pdf-parse is installed",
+      "ats_score": 70,
+      "resume_score": 80,
+      "analysis": {
+        "strengths": [
+          "Clear and concise work experience section",
+          "Relevant technical skills listed",
+          "Education section is well-formatted",
+          "Action verbs used throughout the resume",
+          "Professional summary/objective statement"
+        ],
+        "weaknesses": [
+          "Lack of quantifiable achievements in work experience",
+          "No relevant projects or volunteer work mentioned",
+          "Limited use of keywords related to the industry",
+          "No certifications or relevant courses listed"
+        ],
+        "suggestions": [
+          "Add specific numbers and metrics to work experience",
+          "Include relevant projects or volunteer work",
+          "Use more industry-specific keywords throughout the resume",
+          "Consider adding a skills matrix or table",
+          "Tailor the resume to a specific job description",
+          "Use a standard font throughout the resume",
+          "Proofread for grammar and spelling errors"
+        ],
+        "ats_score": 70,
+        "resume_score": 80,
+        "keyword_density": 60,
+        "formatting_score": 90,
+        "content_score": 75,
+        "sections_found": [
+          "Work Experience",
+          "Education",
+          "Technical Skills",
+          "Professional Summary"
+        ],
+        "missing_sections": [
+          "Certifications",
+          "Relevant Projects",
+          "Volunteer Work",
+          "Achievements"
+        ]
+      }
+    },
+    {
+      "id": "rfi2k3i9qi",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T05:02:41.857Z",
+      "updated_at": "2026-06-25T05:02:41.857Z",
+      "file_name": "PHOTO-2026-06-07-17-05-38 (1).pdf",
+      "content": "PDF content extraction — please ensure pdf-parse is installed",
+      "ats_score": 70,
+      "resume_score": 80,
+      "analysis": {
+        "strengths": [
+          "Clear work experience section",
+          "Relevant skills listed",
+          "Education section is well-formatted",
+          "Achievements mentioned in work experience",
+          "Professional certifications included"
+        ],
+        "weaknesses": [
+          "Lack of summary or objective statement",
+          "No clear career progression",
+          "Limited use of action verbs",
+          "Insufficient use of keywords"
+        ],
+        "suggestions": [
+          "Add a professional summary or objective statement",
+          "Use action verbs to describe job responsibilities",
+          "Include relevant keywords from the industry",
+          "Quantify achievements with numbers and statistics",
+          "Consider adding a separate section for volunteer work or hobbies",
+          "Use a standard font throughout the resume",
+          "Proofread for spelling and grammar errors"
+        ],
+        "ats_score": 70,
+        "resume_score": 80,
+        "keyword_density": 60,
+        "formatting_score": 90,
+        "content_score": 85,
+        "sections_found": [
+          "Work Experience",
+          "Education",
+          "Skills",
+          "Certifications"
+        ],
+        "missing_sections": [
+          "Summary",
+          "Volunteer Work",
+          "Relevant Projects"
+        ]
+      }
+    },
+    {
+      "id": "1lgp18exvb6",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T05:03:37.887Z",
+      "updated_at": "2026-06-25T05:03:37.887Z",
+      "file_name": "PHOTO-2026-06-07-17-05-38 (1).pdf",
+      "content": "PDF content extraction — please ensure pdf-parse is installed",
+      "ats_score": 80,
+      "resume_score": 70,
+      "analysis": {
+        "strengths": [
+          "Clear and concise work experience descriptions",
+          "Relevant technical skills listed",
+          "Education section is well-structured",
+          "Action verbs used throughout the resume"
+        ],
+        "weaknesses": [
+          "Lack of quantifiable achievements in work experience",
+          "No clear career summary or objective statement",
+          "Limited relevant certifications or licenses"
+        ],
+        "suggestions": [
+          "Add specific numbers and metrics to work experience descriptions",
+          "Include a professional summary or career objective statement",
+          "Emphasize transferable skills and relevant tools",
+          "Tailor the resume to a specific job or industry",
+          "Use more dynamic language and action verbs",
+          "Consider adding relevant projects or volunteer work"
+        ],
+        "ats_score": 80,
+        "resume_score": 70,
+        "keyword_density": 60,
+        "formatting_score": 90,
+        "content_score": 75,
+        "sections_found": [
+          "Work Experience",
+          "Education",
+          "Technical Skills"
+        ],
+        "missing_sections": [
+          "Career Summary",
+          "Certifications",
+          "Relevant Projects"
+        ]
+      }
+    },
+    {
+      "id": "xmg7jhl5tl",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T16:14:16.251Z",
+      "updated_at": "2026-06-25T16:14:16.251Z",
+      "file_name": "PHOTO-2026-06-07-17-02-39.jpg",
+      "content": "Curriculum vitae\n\nPERSONA DATA\nName                 : Rania Owid\nGender              : Female\nDate of Birth       : 01/08/1978\nNationality         : Jordanian/ Syrian\nAddress             : Amman Makah Street\nMobile No           : +962795568755\nMarital Status      : Married with 2 Kids\nEmail               : rania.owid@yahoo.com\n\nObjective\nI'm seeking a challenging position in a reputable company where my academic background, job experience and interpersonal skills are well developed and utilized.\n\nEducation\nApproved for Master's Degree Study in Damascus University 2015\nUniversity Degree : Bachelor in English Translation 2010\nUniversity        : Damascus University - Syria\nFaculty           : English Translation\nDepartment        : English Language\nCumulative degree: Good\n\nCourses\n- Tala Abu Ghazalijh University 2016\n  - Journalistic Translation (15 hours)\n  - Simultaneous Translation (30 hours)\n- ICDL at CompuTech Institute 2016\n- English courses at the British Council\n  - Intermediate 3 (Nov 2016 /32 hours)\n  - Pre-intermediate 4 (April 2016/ 32 hours)\n  - Intermediate 1 (May 2016 / 30 hours)\n  - Intermediate 2 (June 2016 / 27 hours)",
+      "ats_score": 60,
+      "resume_score": 70,
+      "analysis": {
+        "strengths": [
+          "Clear and concise contact information",
+          "Relevant education background in English Translation",
+          "Additional courses and certifications in translation and English language",
+          "Objective statement clearly outlines job aspirations"
+        ],
+        "weaknesses": [
+          "Lack of work experience section",
+          "No specific skills or technical abilities mentioned",
+          "No achievements or accomplishments highlighted"
+        ],
+        "suggestions": [
+          "Add a work experience section to highlight relevant job experience",
+          "Include specific skills and technical abilities relevant to the job",
+          "Quantify achievements and accomplishments in education and courses",
+          "Use a more modern and concise format for the resume",
+          "Tailor the objective statement to a specific job or industry",
+          "Consider adding relevant projects or volunteer work"
+        ],
+        "ats_score": 60,
+        "resume_score": 70,
+        "keyword_density": 40,
+        "formatting_score": 80,
+        "content_score": 60,
+        "sections_found": [
+          "PERSONA DATA",
+          "Objective",
+          "Education",
+          "Courses"
+        ],
+        "missing_sections": [
+          "Work Experience",
+          "Skills",
+          "Achievements",
+          "References"
+        ]
+      }
+    }
+  ],
+  "optimized_resumes": [
+    {
+      "id": "x31t0i4d53a",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T14:53:48.809Z",
+      "updated_at": "2026-06-23T14:53:48.809Z",
+      "resume_id": null,
+      "job_analysis_id": null,
+      "optimized_content": "Software Engineer – Resume & Career Assistant Platform\n\nJob Summary\n\nWe are looking for a talented Software Engineer to design, develop, and maintain an AI-powered Resume & Career Assistant platform. The ideal candidate will build scalable web applications, integrate AI technologies, and create tools that help users build resumes, optimize job applications, and improve their career prospects.\n\nResponsibilities\n\n•⁠  ⁠Develop and maintain frontend and backend features.\n•⁠  ⁠Build resume creation, editing, and export functionality.\n•⁠  ⁠Integrate AI services for resume analysis and job matching.\n•⁠  ⁠Design and manage databases and APIs.\n•⁠  ⁠Optimize application performance, security, and scalability.\n•⁠  ⁠Collaborate with designers, product managers, and QA teams.\n•⁠  ⁠Troubleshoot bugs and implement improvements.\n•⁠  ⁠Write clean, maintainable, and documented code.\n\nRequirements\n\n•⁠  ⁠Bachelor's degree in Computer Science or related field (or equivalent experience).\n•⁠  ⁠Proficiency in JavaScript/TypeScript.\n•⁠  ⁠Experience with React, Next.js, Node.js, or similar frameworks.\n•⁠  ⁠Knowledge of databases such as PostgreSQL or MongoDB.\n•⁠  ⁠Experience with REST APIs and cloud platforms.\n•⁠  ⁠Understanding of software development best practices.\n•⁠  ⁠Strong problem-solving and communication skills.\n\nPreferred Qualifications\n\n•⁠  ⁠Experience with AI/LLM integrations.\n•⁠  ⁠Knowledge of resume parsing and ATS systems.\n•⁠  ⁠Experience with SaaS product development.\n•⁠  ⁠Familiarity with Docker and cloud deployment.\n\nBenefits\n\n•⁠  ⁠Competitive salary.\n•⁠  ⁠Flexible work environment.\n•⁠  ⁠Career growth opportunities.\n•⁠  ⁠Access to the latest AI technologies.\n\nJob Type\n\nFull-time",
+      "improvements": [
+        "Added a professional summary section tailored to the target role",
+        "Replaced weak action verbs with strong, impactful alternatives",
+        "Standardized bullet point formatting for ATS compatibility",
+        "Incorporated relevant keywords from the job description",
+        "Improved overall structure and readability",
+        "Enhanced achievement descriptions with action-oriented language"
+      ]
+    },
+    {
+      "id": "w6ntlsq3awd",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T15:14:04.341Z",
+      "updated_at": "2026-06-23T15:14:04.341Z",
+      "resume_id": null,
+      "job_analysis_id": null,
+      "optimized_content": "Software Engineer\n\nSummary\nHighly motivated and detail-oriented Software Engineer with a strong foundation in computer science and a passion for building scalable, efficient, and reliable systems. Proficient in a range of programming languages and technologies, with a keen interest in advancing knowledge of algorithms, data structures, and software engineering best practices.\n\nTechnical Skills\n\n* Programming Languages: JavaScript, HTML, CSS, React\n* Data Structures: Familiarity with basic data structures such as arrays, linked lists, and trees\n* Algorithms: Understanding of basic algorithms such as sorting, searching, and graph traversal\n* Databases: Basic knowledge of database concepts and SQL\n* Cloud & Infrastructure: Familiarity with Git and basic cloud computing concepts\n* AI & Machine Learning: Introduction to machine learning fundamentals and large language models\n\nExperience\n\n* Contributed to the development of small-scale web applications using React and JavaScript\n* Participated in team meetings and collaborated with colleagues to resolve technical issues\n* Assisted in testing and debugging applications to ensure high-quality deliverables\n* Maintained basic documentation and adhered to software development best practices\n* Engaged in continuous learning, expanding knowledge of computer science concepts and programming languages\n\nEducation\n* Bachelor’s Degree in Computer Science or related field\n\nAdditional Information\n* Strong problem-solving skills, with a keen interest in advancing knowledge of algorithms and data structures\n* Excellent communication and collaboration abilities, with experience working in team environments\n* Proficient in Git and familiar with basic cloud computing concepts\n* Eager to learn and adapt to new technologies, with a strong passion for software engineering and AI",
+      "improvements": [
+        "Rephrased the summary to emphasize strong computer science fundamentals and a passion for building scalable systems",
+        "Reorganized technical skills to align with the target job description, including programming languages, data structures, algorithms, databases, cloud & infrastructure, and AI & machine learning",
+        "Enhanced experience section to highlight contributions to web application development, team collaboration, and testing/debugging",
+        "Emphasized education and additional information to showcase strong problem-solving skills, communication abilities, and a keen interest in advancing knowledge of computer science concepts",
+        "Removed basic and limited keywords to make the resume more concise and impactful",
+        "Added relevant keywords from the target job description to improve ATS optimization",
+        "Reorganized the structure to prioritize technical skills and experience",
+        "Used more dynamic language to describe skills and experiences"
+      ]
+    },
+    {
+      "id": "o6gs7hrpead",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T15:14:43.365Z",
+      "updated_at": "2026-06-23T15:14:43.365Z",
+      "resume_id": null,
+      "job_analysis_id": null,
+      "optimized_content": "\n   Chief Executive Officer\n\n   Summary\n   Results-driven and visionary leader with a strong foundation in computer science, eager to leverage transferable skills in strategic planning, team building, and problem-solving to drive business growth and innovation in a CEO role.\n\n   Core Competencies\n\n   * Strategic Planning: Utilized programming skills to develop and implement efficient software solutions, demonstrating ability to analyze complex problems and devise effective plans.\n   * Team Building: Collaborated with cross-functional teams in software development, fostering a culture of open communication, active listening, and collective problem-solving.\n   * Financial Management: Managed personal project budgets, ensuring timely and cost-effective delivery of software features.\n   * Business Development: Identified opportunities for process improvements, proposing and implementing changes that enhanced team productivity and software quality.\n   * Stakeholder Relations: Effectively communicated with team members, stakeholders, and end-users to gather requirements, provide progress updates, and ensure satisfaction with software deliverables.\n\n   Experience\n\n   * Software Engineer: Developed and implemented software features, working closely with senior developers to ensure alignment with business objectives and technical standards.\n   * Team Member: Contributed to team meetings, providing input on software design, development, and testing, while actively seeking feedback to improve personal and team performance.\n   * Project Participant: Engaged in small-scale web development projects, applying programming skills to deliver functional software applications, and collaborating with team members to overcome technical challenges.\n\n   Education\n\n   * Bachelor’s Degree in Computer Science\n\n   Achievements\n\n   * Successfully developed and deployed multiple software features, demonstrating ability to drive projects from conception to delivery.\n   * Improved code quality and reduced bugs through rigorous testing and continuous improvement.\n   * Enhanced team productivity by proposing and implementing process improvements, showcasing ability to analyze workflows and optimize performance.\n\n   Skills\n\n   * Strategic Planning\n   * Team Building\n   * Financial Management\n   * Business Development\n   * Stakeholder Relations\n   * Programming (JavaScript, HTML, CSS, React)\n   * Version Control (Git)\n   * Database Management\n   * Problem-Solving\n   * Communication\n   * Leadership\n\n   Additional Information\n\n   * Eager to pursue executive leadership roles, leveraging transferable skills to drive business growth and innovation.\n   * Strong passion for strategic planning, team building, and stakeholder relations.\n   * Excellent communication and problem-solving skills, with ability to work effectively in team environments.\n   ",
+      "improvements": [
+        "Reoriented the resume to focus on transferable skills relevant to a CEO role, such as strategic planning, team building, and problem-solving.",
+        "Emphasized achievements and skills that demonstrate leadership potential, business acumen, and ability to drive growth and innovation.",
+        "Introduced a Core Competencies section to highlight key skills and qualifications for a CEO position.",
+        "Reorganized the Experience section to focus on accomplishments and responsibilities that showcase leadership and strategic thinking.",
+        "Added an Achievements section to quantify accomplishments and demonstrate impact.",
+        "Incorporated relevant keywords from the target job description to enhance ATS compatibility and visibility.",
+        "Revised the Skills section to include both technical and soft skills, with a focus on those relevant to executive leadership roles.",
+        "Enhanced the Summary section to provide a clear and compelling overview of the candidate's value proposition and career aspirations."
+      ]
+    },
+    {
+      "id": "i233qo482r",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T15:22:08.605Z",
+      "updated_at": "2026-06-23T15:22:08.605Z",
+      "resume_id": null,
+      "job_analysis_id": null,
+      "optimized_content": "ANUJ KUMAR\nEmail: anujkumar071311@gmail.com\n\nOBJECTIVE:\nTo leverage my skills and experience in a role that contributes to maintaining public peace and order, and enforcing the law, inspired by the Indian Police Service (IPS) mission.\n\nWORK EXPERIENCE\nSoftware Engineer Intern | CareerTech Solutions\n- Utilized problem-solving skills to develop and implement web components, analogous to crisis management in law enforcement.\n- Demonstrated adaptability in configuring Supabase database tables, reflecting the ability to navigate complex systems and technologies.\n- Enhanced attention to detail by fixing lints and bugs, ensuring precision and quality in deliverables, a trait valuable in investigative and intelligence work.\n\nSKILLS\n- Proficient in JavaScript, TypeScript, React, Next.js, Supabase, and SQL, with the potential to apply these technical skills in digital forensics, cybersecurity, and data analysis within law enforcement.\n- Strong foundation in software development, which can be translated to understanding and managing complex technological systems used in policing and internal security.\n\nEDUCATION\n(Please note: The education section is not provided in the original resume. It is recommended to include relevant educational background and any certifications that align with the IPS role or law enforcement and public service.\n)\n\nRELEVANT PROJECTS OR VOLUNTEER EXPERIENCE\n(If applicable, include any projects or volunteer work that demonstrates leadership, community service, or skills relevant to the IPS role.)",
+      "improvements": [
+        "Added an objective statement to align the candidate's goals with the IPS mission",
+        "Modified work experience bullet points to highlight transferable skills such as problem-solving, adaptability, and attention to detail",
+        "Emphasized the potential application of technical skills in digital forensics, cybersecurity, and data analysis within law enforcement",
+        "Suggested the inclusion of an education section to provide a comprehensive view of the candidate's background",
+        "Recommended adding a section for relevant projects or volunteer experience to showcase community service, leadership, or other relevant skills",
+        "Enhanced the overall structure and clarity of the resume to make it more readable and focused on the target job description",
+        "Used keywords from the IPS job description to optimize the resume for applicant tracking systems (ATS) and to demonstrate the candidate's understanding of the role's requirements"
+      ]
+    },
+    {
+      "id": "jkwisplsltl",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T05:03:52.658Z",
+      "updated_at": "2026-06-25T05:03:52.658Z",
+      "resume_id": null,
+      "job_analysis_id": null,
+      "optimized_content": "ANUJ KUMAR\nEmail: anujkumar071311@gmail.com\n\nSUMMARY\nHighly motivated and detail-oriented software engineer with experience in developing scalable web applications using React and Next.js. Proficient in JavaScript and TypeScript, with a strong understanding of software development best practices.\n\nWORK EXPERIENCE\nSoftware Engineer Intern | CareerTech Solutions\n- Designed and developed reusable web components using React, enhancing user experience and improving application performance.\n- Configured and managed Supabase database tables, ensuring data integrity and security.\n- Identified and resolved lints and bugs, resulting in improved code quality and reliability.\n\nSKILLS\n- Programming languages: JavaScript, TypeScript\n- Frontend frameworks: React, Next.js\n- Databases: Supabase, SQL\n- Strong understanding of software development best practices, including code maintainability and documentation\n- Familiarity with REST APIs and cloud platforms\n\nEDUCATION\n(Bachelor's degree in Computer Science or related field, or equivalent experience)\n\n",
+      "improvements": [
+        "Reorganized the resume to include a professional summary section, highlighting the candidate's experience and skills",
+        "Rewrote bullet points to be more descriptive and impactful, using action verbs and specific examples",
+        "Emphasized relevant technical skills, including JavaScript, TypeScript, React, and Next.js",
+        "Added a section for education, to meet the job requirement of a Bachelor's degree in Computer Science or related field",
+        "Removed unnecessary words and phrases, making the resume more concise and easy to read",
+        "Used keywords from the job description, such as 'scalable web applications', 'AI-powered', and 'software development best practices', to improve ATS compatibility",
+        "Added a mention of familiarity with REST APIs and cloud platforms, to align with the job requirements",
+        "Changed the formatting to make the resume more visually appealing and easy to scan"
+      ]
+    },
+    {
+      "id": "sdgclvljh1g",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T16:00:59.467Z",
+      "updated_at": "2026-06-25T16:00:59.467Z",
+      "resume_id": null,
+      "job_analysis_id": null,
+      "optimized_content": "\n# Resume for Rania Owid\n\n## Contact Information\nName: Rania Owid\nEmail: rania.owid@yahoo.com\nPhone: +962795568755\nAddress: Amman Makah Street\nNationality: Jordanian/Syrian\n\n## Summary\nHighly motivated and detail-oriented professional with a strong academic background in English Translation, seeking to leverage my skills and experience in a Software Engineer role, focusing on Resume & Career Assistant platforms, utilizing my understanding of language and technology to drive innovation.\n\n## Education\n- Bachelor's Degree in English Translation, Damascus University (2010)\n- Approved for Master's Degree Study in Damascus University (2015)\n- Various courses in translation, technology, and English language proficiency, including:\n  - Journalistic Translation\n  - Simultaneous Translation\n  - ICDL at CompuTech Institute\n  - English courses at the British Council (Intermediate and Pre-intermediate levels)\n\n## Technical Skills\n- Proficient in JavaScript fundamentals\n- Familiarity with React, Next.js, and Node.js frameworks\n- Understanding of database concepts (PostgreSQL, MongoDB)\n- Knowledge of REST APIs and cloud platforms\n- Basic understanding of AI services and machine learning principles\n- Experience with Microsoft Office and Google Suite\n- Strong problem-solving and communication skills\n\n## Experience and Projects\nAlthough my direct experience is in translation and education, I am eager to apply my skills in a software engineering context, particularly in building and optimizing Resume & Career Assistant platforms. My experience in translation has provided me with a strong foundation in language analysis, which I believe can be adapted to resume parsing and ATS systems.\n\n## Career Goals\nTo secure a challenging position in a reputable company where I can apply my skills and knowledge to contribute to the development of innovative software solutions, particularly in the area of Resume & Career Assistant platforms, and to continuously learn and grow in the field of software engineering.\n\n",
+      "improvements": [
+        "Reorganized the resume to focus on relevant sections for a software engineering role",
+        "Added a summary section to highlight transferable skills and career goals",
+        "Emphasized technical skills, including programming languages and frameworks",
+        "Included relevant coursework and certifications",
+        "Removed unnecessary personal details",
+        "Tailored the language to match the job description and requirements",
+        "Added a section for experience and projects to demonstrate potential and eagerness to learn",
+        "Used keywords from the job description to improve ATS compatibility"
+      ]
+    }
+  ],
+  "cover_letters": [
+    {
+      "id": "tp81duq0k4",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T14:55:02.763Z",
+      "updated_at": "2026-06-23T14:55:02.763Z",
+      "resume_id": null,
+      "job_title": "software enginerr",
+      "company": "google",
+      "content": "June 23, 2026\n\nDear Hiring Manager,\n\nI am writing to express my strong interest in the software enginerr position at google. After reviewing the job description, I am confident that my skills and experience align well with the requirements of this role.\n\nI bring expertise in leadership, which are directly relevant to the responsibilities outlined in the job description. Throughout my career, I have consistently demonstrated a commitment to delivering high-quality results and driving meaningful impact.\n\nDrawing from my professional background, I have developed a strong foundation in problem-solving, technical implementation, and cross-functional collaboration. I am particularly excited about the opportunity to apply these skills at google, a company I greatly admire for its innovation and commitment to excellence.\n\nWhat sets me apart is my passion for continuous learning and my ability to adapt to new challenges quickly. I thrive in collaborative environments and have a track record of exceeding expectations in both independent and team settings.\n\nI would welcome the opportunity to discuss how my experience and enthusiasm can contribute to google's continued success. Thank you for considering my application. I look forward to hearing from you.\n\nSincerely,\n[Your Name]\n[Your Email]\n[Your Phone]"
+    },
+    {
+      "id": "b3p2106dtyh",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T15:15:34.056Z",
+      "updated_at": "2026-06-23T15:15:34.056Z",
+      "resume_id": null,
+      "job_title": "ips",
+      "company": "india",
+      "content": "Dear Hiring Manager, I am writing to express my strong interest in the Indian Police Service (IPS) position at the Government of India. As a highly motivated and dedicated individual with a passion for public service, I am confident that I possess the necessary skills and qualifications to excel in this role. With a deep understanding of the IPS officer's responsibilities, including maintaining public peace, enforcing the law, and managing internal security, I am eager to contribute my skills and experience to serve the nation. Throughout my career, I have demonstrated exceptional leadership, crisis management, and problem-solving skills, which I believe are essential for success in this position. I am particularly drawn to the IPS role because of its diverse range of responsibilities, from law and order to intelligence gathering, security, and disaster management. I am impressed by the critical work that IPS officers do to maintain public peace, prevent crimes, and protect the rights of citizens. I am excited about the opportunity to work with state police forces and central agencies, handling complex cases, and providing strategic direction during civil unrest. I am confident that my strong work ethic, integrity, and commitment to public service make me an ideal candidate for this position. I am eager to bring my skills and experience to the IPS and contribute to the safety and security of the nation. Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further. Sincerely, [Your Name]"
+    },
+    {
+      "id": "8y1g6zi8hgg",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T05:05:12.518Z",
+      "updated_at": "2026-06-25T05:05:12.518Z",
+      "resume_id": null,
+      "job_title": "ips",
+      "company": "india",
+      "content": "Dear Hiring Manager,\n\nI am writing to express my strong interest in the Indian Police Service (IPS) position at the India Police Department. As a highly motivated and dedicated individual with a passion for public service, I am confident that I possess the necessary skills, qualifications, and experience to excel in this role.\n\nWith a deep understanding of the importance of maintaining public peace and order, I am eager to take on the challenges of commanding local district police, preventing and investigating crimes, and directing emergency responses. My excellent leadership and communication skills, combined with my ability to work effectively under pressure, make me an ideal candidate for this position.\n\nAs a detail-oriented and analytical individual, I am well-equipped to lead central agencies like the CBI or Intelligence Bureau, and I am excited about the opportunity to work in Parsa or any district under the Maharashtra cadre. I am confident that my strong work ethic, combined with my ability to think critically and strategically, will enable me to make a positive impact in this role.\n\nI am particularly drawn to this position because of the opportunity to serve the community and make a difference in the lives of others. I am impressed by the India Police Department's commitment to maintaining public safety and security, and I am excited about the opportunity to be a part of a team that is dedicated to this mission.\n\nIn addition to my passion for public service, I possess a strong educational foundation and relevant experience that align with the requirements of this position. I am confident that my skills, qualifications, and experience make me a strong candidate for this role, and I am excited about the opportunity to contribute to the India Police Department.\n\nThank you for considering my application. I would welcome the opportunity to discuss my qualifications further and explain in greater detail why I am the ideal candidate for this position.\n\nSincerely,\n[Your Name]"
+    },
+    {
+      "id": "10w4eq5aty6",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T16:11:53.963Z",
+      "updated_at": "2026-06-25T16:11:53.964Z",
+      "resume_id": null,
+      "job_title": " personal assistant",
+      "company": "tcs",
+      "content": "Dear Hiring Manager,\n\nI am writing to express my enthusiastic interest in the Personal Assistant position at Tata Consultancy Services (TCS). As a highly organized and detail-oriented individual with a strong passion for HR support, I am confident that I would make a valuable addition to your Talent Acquisition team.\n\nWith my academic background in English Translation and experience in coordination and support roles, I possess the skills and qualifications necessary to excel in this position. My excellent communication skills, both verbal and written, will enable me to effectively coordinate between candidates, hiring managers, and HR business partners, ensuring a seamless hiring experience.\n\nI am impressed by TCS's commitment to providing a structured and inclusive work environment, with a strong emphasis on learning and development, health and wellness benefits, and competitive compensation. I am excited about the opportunity to work in a hybrid role based out of Mumbai, Pune, or Bangalore and contribute to the success of the company.\n\nAs a proactive and detail-oriented individual, I am well-equipped to manage multiple tasks simultaneously while maintaining a high level of accuracy and confidentiality. My proficiency in MS Office tools, including Excel, Outlook, and Teams, will enable me to efficiently manage candidate pipelines, schedule interviews, and maintain up-to-date MIS reports and recruitment dashboards.\n\nI am particularly drawn to this role because of the opportunity to work with ATS platforms such as iCIMS or Taleo, and to support campus hiring drives and walk-in events. My experience in translation and interpretation has also given me a unique understanding of the importance of effective communication in a fast-paced environment.\n\nIn addition to my technical skills and experience, I possess excellent interpersonal skills, which have been demonstrated through my ability to work effectively with people at all levels. My strong work ethic, combined with my enthusiasm and passion for HR support, make me an ideal candidate for this role.\n\nThank you for considering my application. I would welcome the opportunity to discuss my qualifications further and explain in greater detail why I am the ideal candidate for this position. Please do not hesitate to contact me at +962795568755 or rania.owid@yahoo.com.\n\nSincerely,\nRania Owid"
+    }
+  ],
+  "interview_preps": [
+    {
+      "id": "fpqjupr43qp",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T14:55:33.276Z",
+      "updated_at": "2026-06-23T14:55:33.276Z",
+      "job_title": "software enginner",
+      "company": "google",
+      "hr_questions": [
+        {
+          "question": "Tell me about yourself and why you're interested in the software enginner role at google.",
+          "model_answer": "I'm a dedicated professional with experience in [your field]. I've been following google's work in [area], and I'm excited about the opportunity to contribute my skills in [relevant area]. My background in [experience] has prepared me well for this role, and I'm particularly drawn to google's commitment to [value/mission].",
+          "difficulty": "easy",
+          "category": "Introduction"
+        },
+        {
+          "question": "What are your greatest strengths and how do they apply to this role?",
+          "model_answer": "My greatest strengths are problem-solving, communication, and adaptability. In my previous role, I demonstrated problem-solving by [specific example]. My communication skills allowed me to effectively collaborate with cross-functional teams, and my adaptability helped me quickly learn new technologies and methodologies.",
+          "difficulty": "easy",
+          "category": "Self-Assessment"
+        },
+        {
+          "question": "Describe a challenging situation you faced at work and how you handled it.",
+          "model_answer": "In my previous role, I encountered a critical project deadline that was at risk due to unexpected technical issues. I took the initiative to organize daily stand-ups, broke down the problem into manageable tasks, and coordinated with the team to redistribute workload. We not only met the deadline but also improved our process for future projects, reducing similar issues by 40%.",
+          "difficulty": "medium",
+          "category": "Behavioral"
+        },
+        {
+          "question": "Where do you see yourself in 5 years?",
+          "model_answer": "In five years, I see myself having grown significantly within google, taking on increased responsibility and potentially leading a team. I want to deepen my expertise in [field] while also developing my leadership skills. I'm committed to continuous learning and contributing to google's mission.",
+          "difficulty": "easy",
+          "category": "Career Goals"
+        },
+        {
+          "question": "Why should we hire you over other candidates?",
+          "model_answer": "I bring a unique combination of technical skills, proven results, and cultural alignment with google. My experience in [area] directly maps to the challenges outlined in this role. I'm not just qualified — I'm genuinely passionate about the work google does, and I bring a track record of [specific achievement] that demonstrates my ability to deliver results.",
+          "difficulty": "hard",
+          "category": "Value Proposition"
+        }
+      ],
+      "technical_questions": [
+        {
+          "question": "What technical skills do you consider most important for the software enginner role?",
+          "model_answer": "For the software enginner role, I believe the most critical technical skills include [relevant skills based on role]. I have hands-on experience with these technologies, having used them in production environments. I stay current with industry trends through continuous learning and practical application.",
+          "difficulty": "easy",
+          "category": "Technical Knowledge"
+        },
+        {
+          "question": "Describe your approach to debugging a complex problem in production.",
+          "model_answer": "My debugging approach follows a systematic methodology: 1) Reproduce the issue in a controlled environment, 2) Review logs and monitoring data to identify patterns, 3) Form hypotheses and test them methodically, 4) Implement the fix with appropriate testing, 5) Add monitoring/alerting to prevent recurrence. I document each step for knowledge sharing.",
+          "difficulty": "medium",
+          "category": "Problem Solving"
+        },
+        {
+          "question": "How do you ensure code quality in your projects?",
+          "model_answer": "I ensure code quality through multiple layers: writing unit and integration tests with high coverage, conducting thorough code reviews, using static analysis tools and linters, following established design patterns, maintaining comprehensive documentation, and practicing continuous integration/deployment. I believe in writing code that is not just functional but maintainable and scalable.",
+          "difficulty": "medium",
+          "category": "Best Practices"
+        },
+        {
+          "question": "Explain a complex technical concept to a non-technical stakeholder.",
+          "model_answer": "I use analogies and real-world comparisons to make technical concepts accessible. For example, I might explain an API as a waiter in a restaurant — you give your order (request), the waiter takes it to the kitchen (server), and brings back your food (response). I focus on the \"why\" and business impact rather than implementation details, using visual aids when possible.",
+          "difficulty": "medium",
+          "category": "Communication"
+        },
+        {
+          "question": "How do you stay updated with the latest technology trends?",
+          "model_answer": "I maintain a multi-channel learning approach: I follow industry blogs and newsletters, participate in online communities, attend meetups and conferences, contribute to open-source projects, and regularly experiment with new technologies through side projects. I also engage in peer learning within my team and share knowledge through internal tech talks.",
+          "difficulty": "easy",
+          "category": "Continuous Learning"
+        }
+      ],
+      "preparation_plan": [
+        {
+          "day": 1,
+          "title": "Research & Foundation",
+          "tasks": [
+            "Deep dive into google's products and culture",
+            "Review the job description thoroughly",
+            "List your relevant experiences and achievements",
+            "Update your elevator pitch"
+          ],
+          "focus_areas": [
+            "Company Research",
+            "Self-Assessment"
+          ],
+          "resources": [
+            "google's website and blog",
+            "Glassdoor reviews",
+            "LinkedIn"
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Technical Preparation",
+          "tasks": [
+            "Review core technical concepts for the role",
+            "Practice coding challenges or technical scenarios",
+            "Prepare examples of technical projects",
+            "Review system design fundamentals"
+          ],
+          "focus_areas": [
+            "Technical Skills",
+            "Problem Solving"
+          ],
+          "resources": [
+            "LeetCode/HackerRank",
+            "Technical documentation",
+            "System design resources"
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Behavioral Questions",
+          "tasks": [
+            "Prepare STAR method responses for 5 key scenarios",
+            "Practice answering common HR questions",
+            "Prepare questions to ask the interviewer",
+            "Record yourself and review"
+          ],
+          "focus_areas": [
+            "STAR Method",
+            "Storytelling"
+          ],
+          "resources": [
+            "STAR method guide",
+            "Common interview questions list"
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Mock Interviews",
+          "tasks": [
+            "Do a mock interview with a friend or mentor",
+            "Practice with an AI interview tool",
+            "Work on body language and presentation",
+            "Time your responses (aim for 2-3 minutes per answer)"
+          ],
+          "focus_areas": [
+            "Communication",
+            "Confidence"
+          ],
+          "resources": [
+            "Mock interview platforms",
+            "Mirror practice"
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Deep Technical Review",
+          "tasks": [
+            "Review role-specific technical topics in depth",
+            "Practice whiteboard/technical problem-solving",
+            "Prepare your portfolio/work samples",
+            "Study relevant case studies"
+          ],
+          "focus_areas": [
+            "Domain Knowledge",
+            "Technical Depth"
+          ],
+          "resources": [
+            "Technical blogs",
+            "GitHub portfolio",
+            "Industry papers"
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Final Review & Logistics",
+          "tasks": [
+            "Review all prepared answers and notes",
+            "Plan your outfit and logistics",
+            "Prepare copies of your resume",
+            "Test video/audio setup for virtual interviews"
+          ],
+          "focus_areas": [
+            "Organization",
+            "Logistics"
+          ],
+          "resources": [
+            "Your notes and materials",
+            "Route/tech setup"
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Rest & Confidence Building",
+          "tasks": [
+            "Light review of key talking points",
+            "Practice relaxation techniques",
+            "Visualize a successful interview",
+            "Get a good night's sleep"
+          ],
+          "focus_areas": [
+            "Mindset",
+            "Wellness"
+          ],
+          "resources": [
+            "Meditation apps",
+            "Positive affirmations"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9dfvilxpila",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T15:03:21.088Z",
+      "updated_at": "2026-06-23T15:03:21.088Z",
+      "job_title": "ips",
+      "company": "india",
+      "hr_questions": [
+        {
+          "question": "Tell me about yourself and why you're interested in the ips role at india.",
+          "model_answer": "I'm a dedicated professional with experience in [your field]. I've been following india's work in [area], and I'm excited about the opportunity to contribute my skills in [relevant area]. My background in [experience] has prepared me well for this role, and I'm particularly drawn to india's commitment to [value/mission].",
+          "difficulty": "easy",
+          "category": "Introduction"
+        },
+        {
+          "question": "What are your greatest strengths and how do they apply to this role?",
+          "model_answer": "My greatest strengths are problem-solving, communication, and adaptability. In my previous role, I demonstrated problem-solving by [specific example]. My communication skills allowed me to effectively collaborate with cross-functional teams, and my adaptability helped me quickly learn new technologies and methodologies.",
+          "difficulty": "easy",
+          "category": "Self-Assessment"
+        },
+        {
+          "question": "Describe a challenging situation you faced at work and how you handled it.",
+          "model_answer": "In my previous role, I encountered a critical project deadline that was at risk due to unexpected technical issues. I took the initiative to organize daily stand-ups, broke down the problem into manageable tasks, and coordinated with the team to redistribute workload. We not only met the deadline but also improved our process for future projects, reducing similar issues by 40%.",
+          "difficulty": "medium",
+          "category": "Behavioral"
+        },
+        {
+          "question": "Where do you see yourself in 5 years?",
+          "model_answer": "In five years, I see myself having grown significantly within india, taking on increased responsibility and potentially leading a team. I want to deepen my expertise in [field] while also developing my leadership skills. I'm committed to continuous learning and contributing to india's mission.",
+          "difficulty": "easy",
+          "category": "Career Goals"
+        },
+        {
+          "question": "Why should we hire you over other candidates?",
+          "model_answer": "I bring a unique combination of technical skills, proven results, and cultural alignment with india. My experience in [area] directly maps to the challenges outlined in this role. I'm not just qualified — I'm genuinely passionate about the work india does, and I bring a track record of [specific achievement] that demonstrates my ability to deliver results.",
+          "difficulty": "hard",
+          "category": "Value Proposition"
+        }
+      ],
+      "technical_questions": [
+        {
+          "question": "What technical skills do you consider most important for the ips role?",
+          "model_answer": "For the ips role, I believe the most critical technical skills include [relevant skills based on role]. I have hands-on experience with these technologies, having used them in production environments. I stay current with industry trends through continuous learning and practical application.",
+          "difficulty": "easy",
+          "category": "Technical Knowledge"
+        },
+        {
+          "question": "Describe your approach to debugging a complex problem in production.",
+          "model_answer": "My debugging approach follows a systematic methodology: 1) Reproduce the issue in a controlled environment, 2) Review logs and monitoring data to identify patterns, 3) Form hypotheses and test them methodically, 4) Implement the fix with appropriate testing, 5) Add monitoring/alerting to prevent recurrence. I document each step for knowledge sharing.",
+          "difficulty": "medium",
+          "category": "Problem Solving"
+        },
+        {
+          "question": "How do you ensure code quality in your projects?",
+          "model_answer": "I ensure code quality through multiple layers: writing unit and integration tests with high coverage, conducting thorough code reviews, using static analysis tools and linters, following established design patterns, maintaining comprehensive documentation, and practicing continuous integration/deployment. I believe in writing code that is not just functional but maintainable and scalable.",
+          "difficulty": "medium",
+          "category": "Best Practices"
+        },
+        {
+          "question": "Explain a complex technical concept to a non-technical stakeholder.",
+          "model_answer": "I use analogies and real-world comparisons to make technical concepts accessible. For example, I might explain an API as a waiter in a restaurant — you give your order (request), the waiter takes it to the kitchen (server), and brings back your food (response). I focus on the \"why\" and business impact rather than implementation details, using visual aids when possible.",
+          "difficulty": "medium",
+          "category": "Communication"
+        },
+        {
+          "question": "How do you stay updated with the latest technology trends?",
+          "model_answer": "I maintain a multi-channel learning approach: I follow industry blogs and newsletters, participate in online communities, attend meetups and conferences, contribute to open-source projects, and regularly experiment with new technologies through side projects. I also engage in peer learning within my team and share knowledge through internal tech talks.",
+          "difficulty": "easy",
+          "category": "Continuous Learning"
+        }
+      ],
+      "preparation_plan": [
+        {
+          "day": 1,
+          "title": "Research & Foundation",
+          "tasks": [
+            "Deep dive into india's products and culture",
+            "Review the job description thoroughly",
+            "List your relevant experiences and achievements",
+            "Update your elevator pitch"
+          ],
+          "focus_areas": [
+            "Company Research",
+            "Self-Assessment"
+          ],
+          "resources": [
+            "india's website and blog",
+            "Glassdoor reviews",
+            "LinkedIn"
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Technical Preparation",
+          "tasks": [
+            "Review core technical concepts for the role",
+            "Practice coding challenges or technical scenarios",
+            "Prepare examples of technical projects",
+            "Review system design fundamentals"
+          ],
+          "focus_areas": [
+            "Technical Skills",
+            "Problem Solving"
+          ],
+          "resources": [
+            "LeetCode/HackerRank",
+            "Technical documentation",
+            "System design resources"
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Behavioral Questions",
+          "tasks": [
+            "Prepare STAR method responses for 5 key scenarios",
+            "Practice answering common HR questions",
+            "Prepare questions to ask the interviewer",
+            "Record yourself and review"
+          ],
+          "focus_areas": [
+            "STAR Method",
+            "Storytelling"
+          ],
+          "resources": [
+            "STAR method guide",
+            "Common interview questions list"
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Mock Interviews",
+          "tasks": [
+            "Do a mock interview with a friend or mentor",
+            "Practice with an AI interview tool",
+            "Work on body language and presentation",
+            "Time your responses (aim for 2-3 minutes per answer)"
+          ],
+          "focus_areas": [
+            "Communication",
+            "Confidence"
+          ],
+          "resources": [
+            "Mock interview platforms",
+            "Mirror practice"
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Deep Technical Review",
+          "tasks": [
+            "Review role-specific technical topics in depth",
+            "Practice whiteboard/technical problem-solving",
+            "Prepare your portfolio/work samples",
+            "Study relevant case studies"
+          ],
+          "focus_areas": [
+            "Domain Knowledge",
+            "Technical Depth"
+          ],
+          "resources": [
+            "Technical blogs",
+            "GitHub portfolio",
+            "Industry papers"
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Final Review & Logistics",
+          "tasks": [
+            "Review all prepared answers and notes",
+            "Plan your outfit and logistics",
+            "Prepare copies of your resume",
+            "Test video/audio setup for virtual interviews"
+          ],
+          "focus_areas": [
+            "Organization",
+            "Logistics"
+          ],
+          "resources": [
+            "Your notes and materials",
+            "Route/tech setup"
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Rest & Confidence Building",
+          "tasks": [
+            "Light review of key talking points",
+            "Practice relaxation techniques",
+            "Visualize a successful interview",
+            "Get a good night's sleep"
+          ],
+          "focus_areas": [
+            "Mindset",
+            "Wellness"
+          ],
+          "resources": [
+            "Meditation apps",
+            "Positive affirmations"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mcv2nkyd7s",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T05:05:56.338Z",
+      "updated_at": "2026-06-25T05:05:56.338Z",
+      "job_title": "software engineer",
+      "company": "google",
+      "hr_questions": [
+        {
+          "question": "What do you know about our company culture, and how do you think you'll fit in?",
+          "model_answer": "Google is known for its innovative and collaborative environment. I'm excited about the opportunity to work with a talented team and contribute to the development of cutting-edge technologies.",
+          "difficulty": "easy",
+          "category": "company culture"
+        },
+        {
+          "question": "Can you tell me about a time when you had to work with a cross-functional team to solve a complex problem?",
+          "model_answer": "In my previous role, I worked with designers, product managers, and QA teams to resolve a critical issue with our application. We were able to identify the root cause and implement a fix, resulting in improved performance and user satisfaction.",
+          "difficulty": "medium",
+          "category": "teamwork"
+        },
+        {
+          "question": "How do you handle feedback or criticism of your code?",
+          "model_answer": "I believe that feedback is an essential part of the development process. I'm open to constructive criticism and use it as an opportunity to learn and improve my coding skills.",
+          "difficulty": "easy",
+          "category": "communication"
+        },
+        {
+          "question": "What are your long-term career goals, and how does this role align with them?",
+          "model_answer": "I'm passionate about developing scalable and efficient software solutions. This role at Google aligns with my goals, as it offers the opportunity to work on a cutting-edge platform and collaborate with a talented team.",
+          "difficulty": "medium",
+          "category": "career development"
+        },
+        {
+          "question": "Why do you want to work at Google, and what do you think you can bring to the company?",
+          "model_answer": "I'm impressed by Google's commitment to innovation and its impact on the tech industry. I believe that my skills and experience make me a strong fit for this role, and I'm excited about the opportunity to contribute to the company's mission.",
+          "difficulty": "hard",
+          "category": "company fit"
+        }
+      ],
+      "technical_questions": [
+        {
+          "question": "How would you optimize the performance of a React application?",
+          "model_answer": "I would use techniques such as code splitting, memoization, and debouncing to improve the performance of a React application. Additionally, I would use tools like the React DevTools to identify bottlenecks and optimize the component tree.",
+          "difficulty": "medium",
+          "category": "frontend development"
+        },
+        {
+          "question": "Can you explain the differences between monolithic and microservices architecture?",
+          "model_answer": "Monolithic architecture refers to a self-contained application with a single codebase, whereas microservices architecture consists of multiple independent services that communicate with each other. Microservices offer greater scalability and flexibility but can be more complex to manage.",
+          "difficulty": "hard",
+          "category": "software architecture"
+        },
+        {
+          "question": "How do you handle errors and exceptions in a Node.js application?",
+          "model_answer": "I would use try-catch blocks to catch and handle errors, and implement error handling mechanisms such as error logging and notification systems to ensure that errors are properly tracked and resolved.",
+          "difficulty": "easy",
+          "category": "backend development"
+        },
+        {
+          "question": "What is your experience with AI/LLM integrations, and how do you think they can be applied to a Resume & Career Assistant platform?",
+          "model_answer": "I have experience with integrating AI services such as natural language processing and machine learning models into software applications. I believe that AI/LLM integrations can be used to analyze resumes, match candidates with job openings, and provide personalized career recommendations.",
+          "difficulty": "hard",
+          "category": "ai and machine learning"
+        },
+        {
+          "question": "Can you design a database schema for a Resume & Career Assistant platform?",
+          "model_answer": "I would design a schema that includes tables for user profiles, resumes, job openings, and career recommendations. The schema would need to accommodate data such as user information, resume content, job descriptions, and recommendation algorithms.",
+          "difficulty": "hard",
+          "category": "database design"
+        }
+      ],
+      "preparation_plan": [
+        {
+          "day": 1,
+          "title": "Introduction to Google and the Role",
+          "tasks": [
+            "Research Google's company culture and values",
+            "Review the job description and requirements",
+            "Update your resume and online profiles"
+          ],
+          "focus_areas": [
+            "company culture",
+            "job requirements",
+            "personal branding"
+          ],
+          "resources": [
+            "Google's official website",
+            "Job description and requirements",
+            "Resume and online profile building tools"
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Technical Skills and Knowledge",
+          "tasks": [
+            "Review JavaScript and TypeScript fundamentals",
+            "Practice building React and Node.js applications",
+            "Study database concepts and design principles"
+          ],
+          "focus_areas": [
+            "programming languages",
+            "frontend and backend development",
+            "database design"
+          ],
+          "resources": [
+            "JavaScript and TypeScript documentation",
+            "React and Node.js tutorials",
+            "Database design courses and tutorials"
+          ]
+        },
+        {
+          "day": 3,
+          "title": "AI and Machine Learning Integrations",
+          "tasks": [
+            "Research AI and machine learning concepts and applications",
+            "Study natural language processing and machine learning models",
+            "Explore AI/LLM integration tools and services"
+          ],
+          "focus_areas": [
+            "ai and machine learning",
+            "natural language processing",
+            "ai/llm integration"
+          ],
+          "resources": [
+            "AI and machine learning courses and tutorials",
+            "Natural language processing and machine learning documentation",
+            "AI/LLM integration tools and services"
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Software Development Best Practices",
+          "tasks": [
+            "Review software development best practices and principles",
+            "Study design patterns and principles",
+            "Practice writing clean, maintainable, and documented code"
+          ],
+          "focus_areas": [
+            "software development best practices",
+            "design patterns and principles",
+            "coding skills"
+          ],
+          "resources": [
+            "Software development best practices documentation",
+            "Design patterns and principles courses and tutorials",
+            "Coding challenges and exercises"
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Teamwork and Communication",
+          "tasks": [
+            "Practice answering behavioral interview questions",
+            "Study effective communication and teamwork strategies",
+            "Review conflict resolution and feedback techniques"
+          ],
+          "focus_areas": [
+            "behavioral interview questions",
+            "teamwork and communication",
+            "conflict resolution and feedback"
+          ],
+          "resources": [
+            "Behavioral interview question guides",
+            "Teamwork and communication courses and tutorials",
+            "Conflict resolution and feedback documentation"
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Resume and Career Assistant Platform",
+          "tasks": [
+            "Research the Resume and Career Assistant platform",
+            "Study the platform's features and functionality",
+            "Brainstorm ideas for improving the platform"
+          ],
+          "focus_areas": [
+            "platform features and functionality",
+            "platform improvement ideas",
+            "industry trends and developments"
+          ],
+          "resources": [
+            "Platform documentation and tutorials",
+            "Industry trends and developments articles and blogs",
+            "Platform improvement idea generation tools and exercises"
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Final Preparation and Review",
+          "tasks": [
+            "Review all preparation materials and notes",
+            "Practice answering technical and behavioral interview questions",
+            "Prepare any final questions or topics to discuss during the interview"
+          ],
+          "focus_areas": [
+            "final review and preparation",
+            "interview practice and preparation",
+            "final questions and topics"
+          ],
+          "resources": [
+            "Preparation materials and notes",
+            "Interview practice and preparation tools and exercises",
+            "Final questions and topics guides and documentation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i6ucwocborg",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T15:49:26.311Z",
+      "updated_at": "2026-06-25T15:49:26.311Z",
+      "job_title": "ips",
+      "company": "india",
+      "hr_questions": [
+        {
+          "question": "Why do you want to join the Indian Police Service?",
+          "model_answer": "I want to serve the nation and ensure public safety, and I believe my skills and passion for justice make me a strong fit for this role.",
+          "difficulty": "medium",
+          "category": "Motivation"
+        },
+        {
+          "question": "How would you handle a situation where you have to make a difficult decision under pressure?",
+          "model_answer": "I would remain calm, assess the situation, and consider the ethical implications of my choices. I would also seek input from colleagues and superiors if necessary.",
+          "difficulty": "hard",
+          "category": "Decision Making"
+        },
+        {
+          "question": "What do you think are the most important qualities for a police officer to have?",
+          "model_answer": "I believe the most important qualities for a police officer to have are integrity, empathy, and strong communication skills.",
+          "difficulty": "easy",
+          "category": "Values"
+        },
+        {
+          "question": "Can you tell me about a time when you overcame a challenge?",
+          "model_answer": "In my previous role, I faced a challenge where I had to work with a team to resolve a complex issue. I was able to contribute to the team's efforts and help find a solution.",
+          "difficulty": "medium",
+          "category": "Problem Solving"
+        },
+        {
+          "question": "Why do you think you are a good fit for this role?",
+          "model_answer": "I have the necessary skills, education, and experience for this role, and I am passionate about serving the community and upholding the law.",
+          "difficulty": "easy",
+          "category": "Self-Awareness"
+        }
+      ],
+      "technical_questions": [],
+      "preparation_plan": [
+        {
+          "day": 1,
+          "title": "Introduction to IPS",
+          "tasks": [
+            "Research the Indian Police Service",
+            "Review the job description and requirements"
+          ],
+          "focus_areas": [
+            "Understanding the role",
+            "Assessing fit"
+          ],
+          "resources": [
+            "Official IPS website",
+            "Job description document"
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Current Events and Awareness",
+          "tasks": [
+            "Read news articles on current events",
+            "Watch documentaries on social issues"
+          ],
+          "focus_areas": [
+            "Staying informed",
+            "Developing awareness"
+          ],
+          "resources": [
+            "News websites",
+            "Documentary streaming platforms"
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Personality Development",
+          "tasks": [
+            "Practice mindfulness and meditation",
+            "Engage in physical exercise"
+          ],
+          "focus_areas": [
+            "Building confidence",
+            "Improving mental and physical health"
+          ],
+          "resources": [
+            "Mindfulness apps",
+            "Fitness websites"
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Role-Playing and Scenario Practice",
+          "tasks": [
+            "Practice responding to scenario-based questions",
+            "Engage in mock interviews"
+          ],
+          "focus_areas": [
+            "Developing communication skills",
+            "Improving decision-making abilities"
+          ],
+          "resources": [
+            "Interview preparation websites",
+            "Mock interview platforms"
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Values and Ethics",
+          "tasks": [
+            "Reflect on personal values and ethics",
+            "Research the IPS code of conduct"
+          ],
+          "focus_areas": [
+            "Understanding personal values",
+            "Assessing alignment with IPS values"
+          ],
+          "resources": [
+            "Personal reflection journals",
+            "IPS code of conduct document"
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Community Engagement and Service",
+          "tasks": [
+            "Volunteer for a community service activity",
+            "Research social issues and their impact on communities"
+          ],
+          "focus_areas": [
+            "Developing empathy",
+            "Understanding community needs"
+          ],
+          "resources": [
+            "Volunteer websites",
+            "Social issue research articles"
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Final Preparation and Review",
+          "tasks": [
+            "Review all preparation materials",
+            "Practice responding to common interview questions"
+          ],
+          "focus_areas": [
+            "Consolidating knowledge",
+            "Building confidence"
+          ],
+          "resources": [
+            "Preparation plan documents",
+            "Interview practice websites"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fyd0tdgwsau",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T15:50:18.634Z",
+      "updated_at": "2026-06-25T15:50:18.634Z",
+      "job_title": "software engineer",
+      "company": "google",
+      "hr_questions": [
+        {
+          "question": "Why do you want to work at Google?",
+          "model_answer": "I'm drawn to Google's innovative culture and commitment to excellence. I'm excited about the opportunity to contribute to and learn from a talented team.",
+          "difficulty": "easy",
+          "category": "company culture"
+        },
+        {
+          "question": "What are your strengths and weaknesses?",
+          "model_answer": "My strength is my attention to detail and ability to work well under pressure. An area I'm actively working to improve is delegation and trusting others to handle tasks.",
+          "difficulty": "medium",
+          "category": "self-assessment"
+        },
+        {
+          "question": "Where do you see yourself in five years?",
+          "model_answer": "In five years, I envision myself as a lead engineer, guiding a team to develop innovative solutions and mentoring junior engineers.",
+          "difficulty": "medium",
+          "category": "career goals"
+        },
+        {
+          "question": "Why are you leaving your current job?",
+          "model_answer": "I'm looking for new challenges and opportunities for growth, and I believe Google offers the ideal environment for me to expand my skills and expertise.",
+          "difficulty": "easy",
+          "category": "career transition"
+        },
+        {
+          "question": "How do you handle feedback or criticism?",
+          "model_answer": "I welcome feedback as an opportunity to learn and improve. I listen carefully, ask clarifying questions, and use the feedback to adjust my approach and deliver high-quality results.",
+          "difficulty": "easy",
+          "category": "personal development"
+        }
+      ],
+      "technical_questions": [
+        {
+          "question": "Explain the trade-offs between monolithic architecture and microservices architecture.",
+          "model_answer": "Monolithic architecture offers simplicity and ease of development but can become unwieldy and difficult to scale. Microservices architecture provides flexibility, scalability, and resilience but introduces complexity in communication and management.",
+          "difficulty": "hard",
+          "category": "software design"
+        },
+        {
+          "question": "How would you optimize the performance of a slow database query?",
+          "model_answer": "To optimize a slow database query, I would first analyze the query plan, then consider indexing, caching, or rewriting the query for better performance. Additionally, I might explore partitioning the data or using a more efficient database engine.",
+          "difficulty": "medium",
+          "category": "database optimization"
+        },
+        {
+          "question": "Describe a situation where you had to troubleshoot a difficult technical issue.",
+          "model_answer": "In my previous role, I encountered an issue with a deployment script that was causing errors. I used a systematic approach to identify the root cause, isolating variables and testing hypotheses until I found the problem – a misconfigured environment variable. I then corrected the variable and verified the fix.",
+          "difficulty": "hard",
+          "category": "troubleshooting"
+        },
+        {
+          "question": "What is your experience with agile development methodologies?",
+          "model_answer": "I have worked with Scrum and Kanban methodologies. I appreciate the iterative approach, continuous improvement, and collaboration they foster. I'm familiar with sprint planning, daily stand-ups, and retrospectives.",
+          "difficulty": "easy",
+          "category": "agile development"
+        },
+        {
+          "question": "How do you approach testing and validation of your code?",
+          "model_answer": "I follow a test-driven development (TDD) approach, writing unit tests and integration tests to validate my code's functionality and performance. I also participate in code reviews to ensure my code meets the team's standards and is thoroughly tested.",
+          "difficulty": "medium",
+          "category": "testing and validation"
+        }
+      ],
+      "preparation_plan": [
+        {
+          "day": 1,
+          "title": "Introduction to Google's Engineering Culture",
+          "tasks": [
+            "Research Google's engineering principles",
+            "Review the Google engineering blog"
+          ],
+          "focus_areas": [
+            "company culture",
+            "engineering principles"
+          ],
+          "resources": [
+            "Google's official website",
+            "Google engineering blog"
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Review of Data Structures and Algorithms",
+          "tasks": [
+            "Practice solving problems on LeetCode or HackerRank",
+            "Review common data structures (arrays, linked lists, trees, graphs)"
+          ],
+          "focus_areas": [
+            "data structures",
+            "algorithms"
+          ],
+          "resources": [
+            "LeetCode",
+            "HackerRank",
+            "GeeksforGeeks"
+          ]
+        },
+        {
+          "day": 3,
+          "title": "System Design and Architecture",
+          "tasks": [
+            "Study system design principles",
+            "Practice designing systems for common scenarios (e.g., chat application, e-commerce platform)"
+          ],
+          "focus_areas": [
+            "system design",
+            "architecture"
+          ],
+          "resources": [
+            "System design interview resources",
+            "Google's system design documents"
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Practice Coding and Whiteboarding",
+          "tasks": [
+            "Practice coding exercises on a whiteboard or shared document",
+            "Focus on problem-solving strategies and communication"
+          ],
+          "focus_areas": [
+            "coding skills",
+            "communication"
+          ],
+          "resources": [
+            "Whiteboarding resources",
+            "Coding practice platforms"
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Review of Google's Technical Topics",
+          "tasks": [
+            "Study Google's technical areas of interest (e.g., machine learning, cloud computing)",
+            "Review relevant technologies and tools"
+          ],
+          "focus_areas": [
+            "technical topics",
+            "Google's interests"
+          ],
+          "resources": [
+            "Google's technical documentation",
+            "Research papers on relevant topics"
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Mock Interviews and Feedback",
+          "tasks": [
+            "Participate in mock interviews with peers or mentors",
+            "Receive and incorporate feedback on performance"
+          ],
+          "focus_areas": [
+            "interview skills",
+            "feedback incorporation"
+          ],
+          "resources": [
+            "Mock interview platforms",
+            "Peer or mentor feedback"
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Final Preparation and Review",
+          "tasks": [
+            "Review all material covered during the week",
+            "Practice answering common interview questions"
+          ],
+          "focus_areas": [
+            "final review",
+            "confidence building"
+          ],
+          "resources": [
+            "All previous resources",
+            "Google's interview guide"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "on54dscz9d",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T16:37:10.100Z",
+      "updated_at": "2026-06-25T16:37:10.100Z",
+      "job_title": "ips ",
+      "company": "india",
+      "hr_questions": [
+        {
+          "question": "Why do you want to join the Indian Police Service?",
+          "model_answer": "I am drawn to the Indian Police Service because of its commitment to maintaining law and order, and I believe my skills and experience make me a strong fit for this role.",
+          "difficulty": "medium",
+          "category": "Motivation"
+        },
+        {
+          "question": "How would you handle a situation where you have to make a difficult decision under pressure?",
+          "model_answer": "I would analyze the situation, consider the available options, and choose the course of action that aligns with the principles of justice and the law.",
+          "difficulty": "hard",
+          "category": "Decision Making"
+        },
+        {
+          "question": "What do you think are the most significant challenges facing the Indian Police Service today, and how would you address them?",
+          "model_answer": "Some of the significant challenges include corruption, lack of resources, and public perception. I would address these by promoting transparency, seeking community engagement, and advocating for policy reforms.",
+          "difficulty": "hard",
+          "category": "Current Affairs"
+        },
+        {
+          "question": "Can you describe a situation where you had to work with a team to achieve a common goal?",
+          "model_answer": "In my previous role, I worked with a team to organize a community event. We successfully coordinated our efforts, and the event was a success, demonstrating the power of teamwork and collaboration.",
+          "difficulty": "medium",
+          "category": "Teamwork"
+        },
+        {
+          "question": "Why do you think you are a good fit for this role, and what qualities do you bring to the table?",
+          "model_answer": "I possess strong leadership skills, a keen sense of justice, and the ability to work under pressure. I am confident that these qualities, combined with my passion for public service, make me a strong candidate for the Indian Police Service.",
+          "difficulty": "medium",
+          "category": "Self-Assessment"
+        }
+      ],
+      "technical_questions": [
+        {
+          "question": "What are the key principles of criminal law, and how do they apply to policing in India?",
+          "model_answer": "The key principles include the concept of mens rea and actus reus. In policing, understanding these principles is crucial for investigating crimes and ensuring that justice is served.",
+          "difficulty": "hard",
+          "category": "Legal Knowledge"
+        },
+        {
+          "question": "How would you use technology, such as forensic science and digital evidence, to aid in investigations?",
+          "model_answer": "I would leverage forensic science to analyze physical evidence and digital tools to track and analyze digital footprints, ensuring that all evidence is handled and preserved properly.",
+          "difficulty": "medium",
+          "category": "Technological Application"
+        },
+        {
+          "question": "What strategies would you employ to build trust and improve relationships between law enforcement and the community?",
+          "model_answer": "I would focus on community policing, engaging in outreach programs, and ensuring transparency and accountability within the police force to foster trust and cooperation.",
+          "difficulty": "medium",
+          "category": "Community Policing"
+        },
+        {
+          "question": "Describe the process of gathering and preserving evidence at a crime scene.",
+          "model_answer": "The process involves securing the scene, documenting all findings, collecting physical evidence, and ensuring that all evidence is properly labeled and stored to prevent contamination.",
+          "difficulty": "medium",
+          "category": "Crime Scene Investigation"
+        },
+        {
+          "question": "How do you stay updated with the latest developments in policing strategies and technologies?",
+          "model_answer": "I regularly read law enforcement journals, attend seminars and workshops, and participate in online forums to stay informed about best practices and new technologies in policing.",
+          "difficulty": "easy",
+          "category": "Professional Development"
+        }
+      ],
+      "preparation_plan": [
+        {
+          "day": 1,
+          "title": "Introduction to the Indian Police Service",
+          "tasks": [
+            "Research the history and role of the Indian Police Service",
+            "Review the job description and requirements"
+          ],
+          "focus_areas": [
+            "Understanding the IPS",
+            "Job Requirements"
+          ],
+          "resources": [
+            "Official IPS website",
+            "Books on Indian policing"
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Legal Knowledge and Policing",
+          "tasks": [
+            "Study the Indian Penal Code and Criminal Procedure Code",
+            "Familiarize yourself with forensic science and digital evidence"
+          ],
+          "focus_areas": [
+            "Legal Framework",
+            "Forensic Science"
+          ],
+          "resources": [
+            "Legal texts",
+            "Online courses on forensic science"
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Community Policing and Public Relations",
+          "tasks": [
+            "Learn about community policing strategies",
+            "Practice responding to scenario-based questions on public relations"
+          ],
+          "focus_areas": [
+            "Community Engagement",
+            "Public Relations"
+          ],
+          "resources": [
+            "Community policing manuals",
+            "Scenario-based question banks"
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Leadership and Decision Making",
+          "tasks": [
+            "Read about leadership theories and practices",
+            "Solve case studies on decision making in policing"
+          ],
+          "focus_areas": [
+            "Leadership Skills",
+            "Decision Making"
+          ],
+          "resources": [
+            "Leadership books",
+            "Case studies on policing"
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Physical and Mental Preparation",
+          "tasks": [
+            "Start a physical fitness regimen",
+            "Practice meditation and stress management techniques"
+          ],
+          "focus_areas": [
+            "Physical Fitness",
+            "Mental Wellbeing"
+          ],
+          "resources": [
+            "Fitness apps",
+            "Meditation guides"
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Mock Interviews and Feedback",
+          "tasks": [
+            "Conduct mock interviews with friends or mentors",
+            "Seek feedback on performance and areas for improvement"
+          ],
+          "focus_areas": [
+            "Interview Skills",
+            "Self-Improvement"
+          ],
+          "resources": [
+            "Interview question banks",
+            "Feedback forms"
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Final Preparations and Review",
+          "tasks": [
+            "Review all study materials and notes",
+            "Visualize success and stay positive"
+          ],
+          "focus_areas": [
+            "Knowledge Retention",
+            "Mindset"
+          ],
+          "resources": [
+            "Study materials",
+            "Motivational videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i3usdstgbpj",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T16:37:32.964Z",
+      "updated_at": "2026-06-25T16:37:32.964Z",
+      "job_title": "ias",
+      "company": "india",
+      "hr_questions": [
+        {
+          "question": "What motivated you to join the Indian Administrative Service?",
+          "model_answer": "I am drawn to the IAS because of its potential to create positive change in the lives of citizens and its role in shaping the country's future. I believe my skills and experience make me a strong fit for this position.",
+          "difficulty": "medium",
+          "category": "Motivation"
+        },
+        {
+          "question": "How would you handle a situation where you have to make a difficult decision that affects a large number of people?",
+          "model_answer": "I would consider all the available information, weigh the pros and cons, and choose the option that aligns with the greater good. I would also be prepared to explain and justify my decision to stakeholders.",
+          "difficulty": "hard",
+          "category": "Decision Making"
+        },
+        {
+          "question": "What do you think are the most significant challenges facing India today, and how would you address them as an IAS officer?",
+          "model_answer": "Some of the significant challenges facing India include poverty, inequality, and lack of access to education and healthcare. I would address these challenges by working with various stakeholders, including government agencies, NGOs, and local communities, to design and implement effective policies and programs.",
+          "difficulty": "hard",
+          "category": "Current Affairs"
+        },
+        {
+          "question": "How do you stay updated with current events and developments in the country and the world?",
+          "model_answer": "I regularly read newspapers, magazines, and online news sources to stay informed about current events. I also follow reputable news channels and think tanks on social media to stay up-to-date on the latest developments.",
+          "difficulty": "easy",
+          "category": "Current Affairs"
+        },
+        {
+          "question": "Can you give an example of a time when you had to work with a team to achieve a goal?",
+          "model_answer": "In my previous role, I worked with a team to organize a community event. I was responsible for coordinating with vendors and stakeholders, while my team members handled marketing and logistics. We were able to successfully execute the event, which was attended by over 1,000 people.",
+          "difficulty": "medium",
+          "category": "Teamwork"
+        }
+      ],
+      "technical_questions": [],
+      "preparation_plan": [
+        {
+          "day": 1,
+          "title": "Introduction to IAS and Current Affairs",
+          "tasks": [
+            "Read about the history and role of the IAS",
+            "Familiarize yourself with current events and developments in India and the world"
+          ],
+          "focus_areas": [
+            "Understanding the IAS",
+            "Current Affairs"
+          ],
+          "resources": [
+            "Books on IAS and current affairs",
+            "Online news sources and think tanks"
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Indian Polity and Governance",
+          "tasks": [
+            "Study the Indian Constitution and its key provisions",
+            "Learn about the structure and functions of the Indian government"
+          ],
+          "focus_areas": [
+            "Indian Polity",
+            "Governance"
+          ],
+          "resources": [
+            "Books on Indian polity and governance",
+            "Online resources and study materials"
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Economy and Development",
+          "tasks": [
+            "Study the Indian economy and its key sectors",
+            "Learn about development policies and programs in India"
+          ],
+          "focus_areas": [
+            "Economy",
+            "Development"
+          ],
+          "resources": [
+            "Books on Indian economy and development",
+            "Online resources and study materials"
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Social Issues and Welfare",
+          "tasks": [
+            "Study social issues such as poverty, inequality, and education",
+            "Learn about welfare policies and programs in India"
+          ],
+          "focus_areas": [
+            "Social Issues",
+            "Welfare"
+          ],
+          "resources": [
+            "Books on social issues and welfare",
+            "Online resources and study materials"
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Practice Mock Interviews",
+          "tasks": [
+            "Practice answering common IAS interview questions",
+            "Focus on improving your communication and interpersonal skills"
+          ],
+          "focus_areas": [
+            "Interview Skills",
+            "Communication"
+          ],
+          "resources": [
+            "Mock interview practice materials",
+            "Online resources and study groups"
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Review and Revision",
+          "tasks": [
+            "Review all the material covered so far",
+            "Revise and practice weak areas"
+          ],
+          "focus_areas": [
+            "Revision",
+            "Practice"
+          ],
+          "resources": [
+            "Study materials and notes",
+            "Online resources and practice tests"
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Final Preparation and Confidence Building",
+          "tasks": [
+            "Focus on building confidence and overcoming nerves",
+            "Visualize yourself succeeding in the interview"
+          ],
+          "focus_areas": [
+            "Confidence Building",
+            "Mental Preparation"
+          ],
+          "resources": [
+            "Motivational materials and videos",
+            "Guided meditation and relaxation techniques"
+          ]
+        }
+      ]
+    }
+  ],
+  "chat_messages": [
+    {
+      "id": "hcxk4jb5lc8",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T14:56:22.285Z",
+      "updated_at": "2026-06-23T14:56:22.285Z",
+      "role": "user",
+      "content": "hey"
+    },
+    {
+      "id": "8cdia6n1k0s",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T14:56:22.285Z",
+      "updated_at": "2026-06-23T14:56:22.285Z",
+      "role": "assistant",
+      "content": "That's a great question! Here are some key career tips:\n\n• **Continuous Learning** — Stay current with industry trends and develop new skills regularly\n• **Network Actively** — Build genuine relationships in your industry, both online and offline\n• **Personal Branding** — Maintain a strong LinkedIn presence and share your expertise\n• **Set Clear Goals** — Define short-term and long-term career objectives with measurable milestones\n• **Seek Feedback** — Regularly ask for constructive feedback from peers and mentors\n• **Document Achievements** — Keep a running log of your accomplishments and impact\n\nI'm here to help with specific career questions including resume writing, interview preparation, salary negotiation, career transitions, and job search strategies.\n\nWhat specific area would you like to explore further?"
+    },
+    {
+      "id": "fusu0ydbeyf",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T15:16:01.371Z",
+      "updated_at": "2026-06-23T15:16:01.371Z",
+      "role": "user",
+      "content": "hey"
+    },
+    {
+      "id": "jwg31m7hqn",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T15:16:01.371Z",
+      "updated_at": "2026-06-23T15:16:01.371Z",
+      "role": "assistant",
+      "content": "It seems like we just started our conversation. How can I assist you today? Are you looking for help with:\n\n* Resume writing or optimization\n* Preparing for an interview\n* Exploring career transition options\n* Negotiating salary\n* Building a professional network\n* Developing new skills\n* Creating a job search strategy\n* Optimizing your LinkedIn profile\n\nLet me know, and I'll be happy to provide guidance and support."
+    },
+    {
+      "id": "1rmbxu99tew",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T15:16:17.166Z",
+      "updated_at": "2026-06-23T15:16:17.166Z",
+      "role": "user",
+      "content": "i want to improve my resume"
+    },
+    {
+      "id": "8er95rao5jb",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-23T15:16:17.166Z",
+      "updated_at": "2026-06-23T15:16:17.166Z",
+      "role": "assistant",
+      "content": "Improving your resume can make a significant difference in your job search. Here are some key areas to focus on:\n\n* **Tailor your resume to the job**: Customize your resume for each job you apply to, highlighting the skills and experiences that match the job requirements.\n* **Use a clear and concise format**: Use a clean and easy-to-read format, with bullet points and white space to make your resume easy to scan.\n* **Highlight achievements over responsibilities**: Instead of just listing your job responsibilities, focus on the specific achievements and results you've accomplished in your previous roles.\n* **Include relevant keywords**: Use keywords from the job posting to help your resume pass through applicant tracking systems (ATS) and catch the eye of the hiring manager.\n* **Quantify your results**: Use numbers and statistics to demonstrate the impact of your work, such as \"increased sales by 25% in 6 months\" or \"managed a team of 10 people\".\n\nSome specific questions to help me better assist you:\n\n* What type of job are you applying for?\n* What are your greatest strengths and accomplishments?\n* What are some challenges you've faced in your previous roles, and how did you overcome them?\n* Do you have any specific resume sections you'd like to focus on (e.g. work experience, education, skills)?\n\nLet me know, and I'll be happy to provide more tailored advice and guidance."
+    },
+    {
+      "id": "4052uue7emb",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T05:07:45.243Z",
+      "updated_at": "2026-06-25T05:07:45.243Z",
+      "role": "user",
+      "content": "cs is good for 2026"
+    },
+    {
+      "id": "rim14cwiehg",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T05:07:45.243Z",
+      "updated_at": "2026-06-25T05:07:45.243Z",
+      "role": "assistant",
+      "content": "Computer Science (CS) is a highly sought-after field with a strong job market outlook for 2026 and beyond. Here are some reasons why:\n\n* **High demand**: The demand for skilled CS professionals continues to grow, driven by the increasing use of technology in various industries.\n* **Job prospects**: CS graduates can pursue a wide range of career paths, including:\n\t+ Software engineering\n\t+ Data science and analytics\n\t+ Artificial intelligence and machine learning\n\t+ Cybersecurity\n\t+ Cloud computing\n\t+ Networking and distributed systems\n* **Competitive salaries**: CS professionals are typically well-compensated, with median salaries ranging from $100,000 to over $200,000 depending on the role and location.\n* **Opportunities for advancement**: With experience and skills, CS professionals can move into leadership roles, such as technical lead, manager, or director, or start their own companies.\n\nTo stay competitive in the CS job market, it's essential to:\n\n* **Stay up-to-date with industry trends**: Continuously learn and adapt to new technologies, frameworks, and tools.\n* **Develop a strong foundation in programming**: Proficiency in languages like Python, Java, C++, and JavaScript is essential.\n* **Gain experience with emerging technologies**: Familiarize yourself with technologies like AI, blockchain, and cloud computing.\n* **Build a strong portfolio**: Create a portfolio that showcases your projects, contributions to open-source projects, and participation in hackathons or coding challenges.\n\nSome in-demand CS skills for 2026 include:\n\n* **Cloud computing**: AWS, Azure, Google Cloud\n* **Artificial intelligence and machine learning**: TensorFlow, PyTorch, scikit-learn\n* **Cybersecurity**: Security frameworks, threat analysis, penetration testing\n* **Data science and analytics**: Data visualization, statistical modeling, data mining\n* **Full-stack development**: Front-end and back-end development, DevOps\n\nWhat specific area of CS are you interested in, and what are your career goals?"
+    },
+    {
+      "id": "whv6zfnmvjp",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T16:13:32.606Z",
+      "updated_at": "2026-06-25T16:13:32.606Z",
+      "role": "user",
+      "content": "tell me abou personal assitant of tcs"
+    },
+    {
+      "id": "m8dyqoob89",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T16:13:32.606Z",
+      "updated_at": "2026-06-25T16:13:32.606Z",
+      "role": "assistant",
+      "content": "The Personal Assistant role at Tata Consultancy Services (TCS) is a unique and exciting opportunity. Here's an overview:\n\n**Job Description:**\n\nAs a Personal Assistant at TCS, you will be responsible for providing administrative support to senior executives, such as CEOs, CFOs, or other high-level leaders. Your primary goal will be to ensure the smooth operation of their daily activities, allowing them to focus on strategic decision-making and business growth.\n\n**Key Responsibilities:**\n\n* Manage calendars, schedules, and appointments\n* Coordinate travel arrangements, including flights, hotels, and transportation\n* Prepare and edit correspondence, reports, and presentations\n* Handle confidential and sensitive information with discretion\n* Develop and maintain relationships with internal and external stakeholders\n* Provide administrative support for meetings, conferences, and events\n* Maintain accurate and up-to-date records and files\n\n**Skills and Qualifications:**\n\n* Excellent communication, organizational, and time-management skills\n* Ability to work independently and as part of a team\n* Strong attention to detail and discretion when handling confidential information\n* Proficiency in Microsoft Office, including Word, Excel, PowerPoint, and Outlook\n* Strong problem-solving and analytical skills\n* Ability to adapt to changing priorities and deadlines\n* Bachelor's degree in a relevant field, such as business administration, communications, or a related field\n\n**Career Path:**\n\nAs a Personal Assistant at TCS, you can expect to gain valuable experience and skills that can be applied to various roles within the company. With time and experience, you may have opportunities to move into roles such as:\n\n* Executive Assistant\n* Administrative Manager\n* Business Coordinator\n* Project Manager\n* Operations Manager\n\n**Salary and Benefits:**\n\nThe salary for a Personal Assistant at TCS can vary depending on factors such as location, experience, and qualifications. However, here are some approximate salary ranges:\n\n* Entry-level (0-2 years of experience): ₹3.5-5 lakhs per annum\n* Mid-level (2-5 years of experience): ₹5-8 lakhs per annum\n* Senior-level (5-10 years of experience): ₹8-12 lakhs per annum\n\nTCS offers a range of benefits, including:\n\n* Health insurance\n* Retirement plans\n* Paid time off\n* Training and development opportunities\n* Flexible work arrangements\n\n**Growth Opportunities:**\n\nAs a Personal Assistant at TCS, you will have opportunities to:\n\n* Work with senior executives and learn from their experiences\n* Develop strong relationships with internal and external stakeholders\n* Gain exposure to various business functions and operations\n* Participate in training and development programs to enhance your skills\n* Contribute to the growth and success of the company\n\nOverall, the Personal Assistant role at TCS can be a rewarding and challenging opportunity for those who are organized, communicative, and able to work in a fast-paced environment."
+    }
+  ],
+  "applications": [
+    {
+      "id": "i3bc68nht5f",
+      "user_id": "mock-user-id",
+      "created_at": "2026-06-25T15:47:26.667Z",
+      "updated_at": "2026-06-25T15:47:26.667Z",
+      "company": "cinelux",
+      "role": "software enginneer",
+      "status": "applied",
+      "applied_date": "2026-06-25",
+      "notes": null,
+      "url": null,
+      "salary_range": "100k"
+    }
+  ]
+}
